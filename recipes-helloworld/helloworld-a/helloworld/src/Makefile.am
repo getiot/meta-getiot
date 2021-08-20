@@ -1,2 +1,2 @@
-bin_PROGRAMS = helloworld
-helloworld_SOURCES = helloworld.c
+bin_PROGRAMS = helloworlda
+helloworlda_SOURCES = helloworld.c
